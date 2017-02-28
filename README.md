@@ -5,7 +5,7 @@ In this app I use Node, Express, React, and React-Redux to display a list of ite
 ### Запуск проекта
 
 1. Clone this repo
-2. `cd spa-datalist`
+2. `cd DataList-master`
 3. `npm install`
 4. Скопируйте `etc/config.js.sample` в `etc/config.js`
 4. `npm run server`
